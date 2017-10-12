@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aurora</string>
+    <string name="enterUserName">Enter user name</string>
+    <string name="enterPassword">Enter password</string>
+    <string name="userName">User Name</string>
+    <string name="password">Password</string>
+
+</resources>
